@@ -1,0 +1,6 @@
+P: You have two strings, and a lighter. If you light a string at one end, it burns for one hour. You have no way of measuring or cutting 
+the strings. How would you measure 45 minutes?
+
+R: Take one of the strings (string A). Light both ends of string A, and at the same time, light one end of the other string (string B).
+When the burning points of string A meet – this will signal 30 minutes of time. At this point, light the unlit end of string B. When the 
+burning points of string B meet, 45 minutes will have elapsed.
