@@ -1,0 +1,5 @@
+P: Anna is looking at Betty. Betty is looking at Chip. Chip is not a programmer, but Anna is a programmer. Is there enough information to 
+know if a programmer is looking at a non-programmer?
+
+R: Yes, there is enough information. Consider these 2 cases: if Betty is not a programmer, then Anna(programmer) is looking at Betty
+(non-programmer); else, then Betty(programmer) is looking at Chip(non-programmer). 
