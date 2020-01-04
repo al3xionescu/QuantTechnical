@@ -1,0 +1,6 @@
+P: If I flip 3 coins, what’s the probability that I get exactly 2 heads given that I get at least 1 tail?
+
+R: When you flip a (fair) coin three times, there are 2^3=8 equiprobable outcomes. Of these eight outcomes, exactly one does not have at 
+least one tail: namely HHH. We can throw this one out of our “sample space”. There are seven remaining equiprobable outcomes. Of these,
+exactly three have two heads and one tail: HHT, HTH, THH. 
+So, P(event) = N(event) / N(space) = 3/7
