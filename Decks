@@ -1,0 +1,6 @@
+P: Two decks of cards. One deck has 52 cards, the other has 104. You pick two cards separately from a same pack. If both of two
+cards are red, you win. Which pack will you choose?
+
+R: I would choose deck with 104 cards. The probability of drawing two reds from the deck with 104 cards is 52/104 * 51/103, while
+the probability of drawing two reds from the other deck is 26/52 * 25/51. As 51/103 * 1/2 > 25/51 * 1/2, the probability is 
+higher when drawing from the deck with 104 cards.
