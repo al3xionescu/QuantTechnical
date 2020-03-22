@@ -1,0 +1,4 @@
+P: For a 3 sets tennis game, would you bet on it finishing in twp sets or three sets?
+
+R: Let p be the probability team 1 wins and q probability team 2 wins. p^2+q^2 = probability to finish in two sets, 2*p*q = probability to
+finish in three sets; We know that p^2+q^2 >= 2*p*q, so the answer is 2 sets.
