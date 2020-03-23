@@ -1,0 +1,6 @@
+P: A group of people wants to determine their average salary on the condition that no individual would be able to find out 
+anyone else's salary. Can they accomplish this, and, if so, how?
+
+R: Yes, it is possible. The first person thinks of a random number, say X. This person adds this number to her salary. The rest 
+of the group simply adds their salary to the initial number. Then, the first person subtracts the random number X and divides
+the total salary sum by the size of the group to obtain the average.
