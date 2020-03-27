@@ -1,0 +1,4 @@
+P: How many digits are in 99 to the 99th power?
+
+R: 99^99 = (100 ^ 99)*(0.99 ^ 99) = (10 ^ 198)*(0.99 ^ 99). It is obvious that 10^198  has 199 digits and 0.99^99 approaches
+1/e so we can see that 99^99 has 198 digits. 
