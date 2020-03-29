@@ -1,0 +1,5 @@
+P: What is the least multiple of 15 whose digits consist only of 1's and 0's?
+
+R: The last digit must be zero as multiples of 15 never end in 1. We also know that the sum of digits should be divisible by 3.
+Then, by checking numbers 10, 100, 110, 1000, 1100, 1110 we arrive at the answer 1110. 
+
